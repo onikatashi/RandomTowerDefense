@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 2ef4ec340e2ab874f95301fb2d095092
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9023127048694106408
+    second: die_fx_spritesheet_0
+  - first:
+      213: 1312671908806804779
+    second: die_fx_spritesheet_1
+  - first:
+      213: 2727829990290025798
+    second: die_fx_spritesheet_2
+  - first:
+      213: 2750324589389054617
+    second: die_fx_spritesheet_3
+  - first:
+      213: 6000643278881156467
+    second: die_fx_spritesheet_4
+  - first:
+      213: -8294821561571114777
+    second: die_fx_spritesheet_5
+  - first:
+      213: -7148797885355215025
+    second: die_fx_spritesheet_6
+  - first:
+      213: -4205676375051918071
+    second: die_fx_spritesheet_7
+  - first:
+      213: -8483569954553034726
+    second: die_fx_spritesheet_8
+  - first:
+      213: 3375561758983565132
+    second: die_fx_spritesheet_9
+  - first:
+      213: 7904568621922051729
+    second: die_fx_spritesheet_10
+  - first:
+      213: -4079998849795785204
+    second: die_fx_spritesheet_11
+  - first:
+      213: -7001867486859742503
+    second: die_fx_spritesheet_12
+  - first:
+      213: -6178179095563018348
+    second: die_fx_spritesheet_13
+  - first:
+      213: 2492255797768386467
+    second: die_fx_spritesheet_14
+  - first:
+      213: 45404749603580895
+    second: die_fx_spritesheet_15
+  - first:
+      213: -8205842900563402737
+    second: die_fx_spritesheet_16
+  - first:
+      213: -1449253023023434145
+    second: die_fx_spritesheet_17
+  - first:
+      213: -2742628878874724452
+    second: die_fx_spritesheet_18
+  - first:
+      213: 5491427613473048564
+    second: die_fx_spritesheet_19
+  - first:
+      213: 2840807310740394269
+    second: die_fx_spritesheet_20
+  - first:
+      213: 7112785686373270142
+    second: die_fx_spritesheet_21
+  - first:
+      213: 6327091162831349740
+    second: die_fx_spritesheet_22
+  - first:
+      213: 1164388187541429453
+    second: die_fx_spritesheet_23
+  - first:
+      213: 2884151395778017081
+    second: die_fx_spritesheet_24
+  - first:
+      213: 5680922341846868862
+    second: die_fx_spritesheet_25
+  - first:
+      213: -2890685921434820624
+    second: die_fx_spritesheet_26
+  - first:
+      213: 1137487978807348067
+    second: die_fx_spritesheet_27
+  - first:
+      213: -3692997849833503866
+    second: die_fx_spritesheet_28
+  - first:
+      213: -2191069733199242846
+    second: die_fx_spritesheet_29
+  - first:
+      213: -2708413031659997226
+    second: die_fx_spritesheet_30
+  - first:
+      213: 702408311607300505
+    second: die_fx_spritesheet_31
+  - first:
+      213: 3659300373199787793
+    second: die_fx_spritesheet_32
+  - first:
+      213: 6845516623200654819
+    second: die_fx_spritesheet_33
+  - first:
+      213: 8950848601694352292
+    second: die_fx_spritesheet_34
+  - first:
+      213: 7525375342764060221
+    second: die_fx_spritesheet_35
+  - first:
+      213: 3890488081842202309
+    second: die_fx_spritesheet_36
+  - first:
+      213: -3652282741478515694
+    second: die_fx_spritesheet_37
+  - first:
+      213: -7285048681255399180
+    second: die_fx_spritesheet_38
+  - first:
+      213: 2198239136577982625
+    second: die_fx_spritesheet_39
+  - first:
+      213: 2557523373558484119
+    second: die_fx_spritesheet_40
+  - first:
+      213: -6700676836999205586
+    second: die_fx_spritesheet_41
+  - first:
+      213: -7146595062212341519
+    second: die_fx_spritesheet_42
+  - first:
+      213: 7610188344723575286
+    second: die_fx_spritesheet_43
+  - first:
+      213: -7807927944495531878
+    second: die_fx_spritesheet_44
+  - first:
+      213: 2453417931626801763
+    second: die_fx_spritesheet_45
+  - first:
+      213: 9193451343491820966
+    second: die_fx_spritesheet_46
+  - first:
+      213: -2023406698754130561
+    second: die_fx_spritesheet_47
+  - first:
+      213: -6952054897794397937
+    second: die_fx_spritesheet_48
+  - first:
+      213: 6918206364936820295
+    second: die_fx_spritesheet_49
+  - first:
+      213: 6218764520715661147
+    second: die_fx_spritesheet_50
+  - first:
+      213: 8611736616882981662
+    second: die_fx_spritesheet_51
+  - first:
+      213: -2702406039250854701
+    second: die_fx_spritesheet_52
+  - first:
+      213: -6000104240311427773
+    second: die_fx_spritesheet_53
+  - first:
+      213: 281964375606532610
+    second: die_fx_spritesheet_54
+  - first:
+      213: -70602699936281353
+    second: die_fx_spritesheet_55
+  - first:
+      213: -5616698091316840288
+    second: die_fx_spritesheet_56
+  - first:
+      213: -960763687615334629
+    second: die_fx_spritesheet_57
+  - first:
+      213: -1179784383293475114
+    second: die_fx_spritesheet_58
+  - first:
+      213: -988395161562412562
+    second: die_fx_spritesheet_59
+  - first:
+      213: 8333294677563248443
+    second: die_fx_spritesheet_60
+  - first:
+      213: 5676516548547124639
+    second: die_fx_spritesheet_61
+  - first:
+      213: 4122097534332959981
+    second: die_fx_spritesheet_62
+  - first:
+      213: -1319875993276254768
+    second: die_fx_spritesheet_63
+  - first:
+      213: 607642234194179881
+    second: die_fx_spritesheet_64
+  - first:
+      213: -7268660061884080051
+    second: die_fx_spritesheet_65
+  - first:
+      213: 2320007161771738032
+    second: die_fx_spritesheet_66
+  - first:
+      213: -716352425847496797
+    second: die_fx_spritesheet_67
+  - first:
+      213: 5781311515477010252
+    second: die_fx_spritesheet_68
+  - first:
+      213: 7303239411110883948
+    second: die_fx_spritesheet_69
+  - first:
+      213: 6638841770322935563
+    second: die_fx_spritesheet_70
+  - first:
+      213: -4633330198194307390
+    second: die_fx_spritesheet_71
+  - first:
+      213: 7432320232580969809
+    second: die_fx_spritesheet_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: die_fx_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1218
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d67e5b71c967c280800000000000000
+      internalID: -9023127048694106408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25401f652c873210800000000000000
+      internalID: 1312671908806804779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1182
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64de4ea6ce23bd520800000000000000
+      internalID: 2727829990290025798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928e8764ad1b2620800000000000000
+      internalID: 2750324589389054617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37deb85f441964350800000000000000
+      internalID: 6000643278881156467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08d43dcbfd2ec80800000000000000
+      internalID: -8294821561571114777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1179
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b650033e5acc90800000000000000
+      internalID: -7148797885355215025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1190
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90527c89e9f62a5c0800000000000000
+      internalID: -4205676375051918071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1210
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1880bff21e444a80800000000000000
+      internalID: -8483569954553034726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1189
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fab99098768de20800000000000000
+      internalID: 3375561758983565132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1193
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ec5c084ba2bd60800000000000000
+      internalID: 7904568621922051729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1103
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7be1b9aee067c0800000000000000
+      internalID: -4079998849795785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1093
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d23e514e9e54de90800000000000000
+      internalID: -7001867486859742503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd83298d2b24aa0800000000000000
+      internalID: -6178179095563018348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1103
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7746b8175469220800000000000000
+      internalID: 2492255797768386467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1087
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbac33116f41a000800000000000000
+      internalID: 45404749603580895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 858
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e14dbb5dfe1e80800000000000000
+      internalID: -8205842900563402737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 979
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f605dd0833ebe0800000000000000
+      internalID: -1449253023023434145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 949
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b1f3d09930f9d0800000000000000
+      internalID: -2742628878874724452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 959
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f705d2d158753c40800000000000000
+      internalID: 5491427613473048564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 941
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119308a2339c6720800000000000000
+      internalID: 2840807310740394269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 959
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7203c785e0b5b260800000000000000
+      internalID: 7112785686373270142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 957
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76316e3e75ec750800000000000000
+      internalID: 6327091162831349740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 841
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc511b23ecb82010800000000000000
+      internalID: 1164388187541429453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 949
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937bbcfd960960820800000000000000
+      internalID: 2884151395778017081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 854
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ec5665c0b6de40800000000000000
+      internalID: 5680922341846868862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 844
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff97af487832e7d0800000000000000
+      internalID: -2890685921434820624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 840
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc6114a4b29cf00800000000000000
+      internalID: 1137487978807348067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 837
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683846c9506dfbcc0800000000000000
+      internalID: -3692997849833503866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 835
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a99c8abfa1c791e0800000000000000
+      internalID: -2191069733199242846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 876
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7fdde82b8c96ad0800000000000000
+      internalID: -2708413031659997226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 859
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99192ac43a47fb900800000000000000
+      internalID: 702408311607300505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 875
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11717073d4278c230800000000000000
+      internalID: 3659300373199787793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 806
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e518e58919200f50800000000000000
+      internalID: 6845516623200654819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 834
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a33b4e216dc73c70800000000000000
+      internalID: 8950848601694352292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 835
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e6feac0018f6860800000000000000
+      internalID: 7525375342764060221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 802
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c668193c4acdf530800000000000000
+      internalID: 3890488081842202309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 566
+        width: 152
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c12ee723c705dc0800000000000000
+      internalID: -3652282741478515694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 556
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0185e72de46ea90800000000000000
+      internalID: -7285048681255399180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 547
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0971319d6b18e10800000000000000
+      internalID: 2198239136577982625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 537
+        width: 218
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c46b935f52e7320800000000000000
+      internalID: 2557523373558484119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 536
+        width: 232
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d69ff1be96203a0800000000000000
+      internalID: -6700676836999205586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 244
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d54bb7a132dc90800000000000000
+      internalID: -7146595062212341519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 267
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f11111aaf1dc9960800000000000000
+      internalID: 7610188344723575286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 260
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987f7417eaa4a390800000000000000
+      internalID: -7807927944495531878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 262
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a603c2c9a4c0220800000000000000
+      internalID: 2453417931626801763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 408
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adeaa4b943b59f70800000000000000
+      internalID: 9193451343491820966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 475
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3d94f35a6be3e0800000000000000
+      internalID: -2023406698754130561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 411
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0943fd67e6558f90800000000000000
+      internalID: -6952054897794397937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 407
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d7e0e808620060800000000000000
+      internalID: 6918206364936820295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 260
+        width: 146
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2f07126d7d4650800000000000000
+      internalID: 6218764520715661147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 294
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bc88c73d8038770800000000000000
+      internalID: 8611736616882981662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 348
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc159776002f7ad0800000000000000
+      internalID: -2702406039250854701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 262
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d1cecbbf85bbca0800000000000000
+      internalID: -6000104240311427773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 235
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a975f0b1db9e300800000000000000
+      internalID: 281964375606532610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 237
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc4d1ee73b250ff0800000000000000
+      internalID: -70602699936281353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 235
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f17038da7d02b0800000000000000
+      internalID: -5616698091316840288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f796348eaaa2f0800000000000000
+      internalID: -960763687615334629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 237
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d63d3aaa5090afe0800000000000000
+      internalID: -1179784383293475114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 220
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee98b5956d38842f0800000000000000
+      internalID: -988395161562412562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 169
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8fc88b5fc5a370800000000000000
+      internalID: 8333294677563248443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 186
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d17c5b9b907ce40800000000000000
+      internalID: 5676516548547124639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 165
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decfd6f1ed1a43930800000000000000
+      internalID: 4122097534332959981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f331f6cbdeade0800000000000000
+      internalID: -1319875993276254768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 114
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273baf7467ce6800800000000000000
+      internalID: 607642234194179881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 110
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a45a4f28802b90800000000000000
+      internalID: -7268660061884080051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b344c1c832523020800000000000000
+      internalID: 2320007161771738032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 39
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afde5b93410f06f0800000000000000
+      internalID: -716352425847496797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47e1ef41385b3050800000000000000
+      internalID: 5781311515477010252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 29
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b5e8dc815a5560800000000000000
+      internalID: 7303239411110883948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fbf108a67e12c50800000000000000
+      internalID: 6638841770322935563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb981bbba13bfb0800000000000000
+      internalID: -4633330198194307390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_fx_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ffe79fd7e42760800000000000000
+      internalID: 7432320232580969809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      die_fx_spritesheet_0: -9023127048694106408
+      die_fx_spritesheet_1: 1312671908806804779
+      die_fx_spritesheet_10: 7904568621922051729
+      die_fx_spritesheet_11: -4079998849795785204
+      die_fx_spritesheet_12: -7001867486859742503
+      die_fx_spritesheet_13: -6178179095563018348
+      die_fx_spritesheet_14: 2492255797768386467
+      die_fx_spritesheet_15: 45404749603580895
+      die_fx_spritesheet_16: -8205842900563402737
+      die_fx_spritesheet_17: -1449253023023434145
+      die_fx_spritesheet_18: -2742628878874724452
+      die_fx_spritesheet_19: 5491427613473048564
+      die_fx_spritesheet_2: 2727829990290025798
+      die_fx_spritesheet_20: 2840807310740394269
+      die_fx_spritesheet_21: 7112785686373270142
+      die_fx_spritesheet_22: 6327091162831349740
+      die_fx_spritesheet_23: 1164388187541429453
+      die_fx_spritesheet_24: 2884151395778017081
+      die_fx_spritesheet_25: 5680922341846868862
+      die_fx_spritesheet_26: -2890685921434820624
+      die_fx_spritesheet_27: 1137487978807348067
+      die_fx_spritesheet_28: -3692997849833503866
+      die_fx_spritesheet_29: -2191069733199242846
+      die_fx_spritesheet_3: 2750324589389054617
+      die_fx_spritesheet_30: -2708413031659997226
+      die_fx_spritesheet_31: 702408311607300505
+      die_fx_spritesheet_32: 3659300373199787793
+      die_fx_spritesheet_33: 6845516623200654819
+      die_fx_spritesheet_34: 8950848601694352292
+      die_fx_spritesheet_35: 7525375342764060221
+      die_fx_spritesheet_36: 3890488081842202309
+      die_fx_spritesheet_37: -3652282741478515694
+      die_fx_spritesheet_38: -7285048681255399180
+      die_fx_spritesheet_39: 2198239136577982625
+      die_fx_spritesheet_4: 6000643278881156467
+      die_fx_spritesheet_40: 2557523373558484119
+      die_fx_spritesheet_41: -6700676836999205586
+      die_fx_spritesheet_42: -7146595062212341519
+      die_fx_spritesheet_43: 7610188344723575286
+      die_fx_spritesheet_44: -7807927944495531878
+      die_fx_spritesheet_45: 2453417931626801763
+      die_fx_spritesheet_46: 9193451343491820966
+      die_fx_spritesheet_47: -2023406698754130561
+      die_fx_spritesheet_48: -6952054897794397937
+      die_fx_spritesheet_49: 6918206364936820295
+      die_fx_spritesheet_5: -8294821561571114777
+      die_fx_spritesheet_50: 6218764520715661147
+      die_fx_spritesheet_51: 8611736616882981662
+      die_fx_spritesheet_52: -2702406039250854701
+      die_fx_spritesheet_53: -6000104240311427773
+      die_fx_spritesheet_54: 281964375606532610
+      die_fx_spritesheet_55: -70602699936281353
+      die_fx_spritesheet_56: -5616698091316840288
+      die_fx_spritesheet_57: -960763687615334629
+      die_fx_spritesheet_58: -1179784383293475114
+      die_fx_spritesheet_59: -988395161562412562
+      die_fx_spritesheet_6: -7148797885355215025
+      die_fx_spritesheet_60: 8333294677563248443
+      die_fx_spritesheet_61: 5676516548547124639
+      die_fx_spritesheet_62: 4122097534332959981
+      die_fx_spritesheet_63: -1319875993276254768
+      die_fx_spritesheet_64: 607642234194179881
+      die_fx_spritesheet_65: -7268660061884080051
+      die_fx_spritesheet_66: 2320007161771738032
+      die_fx_spritesheet_67: -716352425847496797
+      die_fx_spritesheet_68: 5781311515477010252
+      die_fx_spritesheet_69: 7303239411110883948
+      die_fx_spritesheet_7: -4205676375051918071
+      die_fx_spritesheet_70: 6638841770322935563
+      die_fx_spritesheet_71: -4633330198194307390
+      die_fx_spritesheet_72: 7432320232580969809
+      die_fx_spritesheet_8: -8483569954553034726
+      die_fx_spritesheet_9: 3375561758983565132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

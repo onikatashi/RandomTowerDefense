@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96127a7e5cc3f2d4ab06e321f525b42f, type: 3}
+  m_Name: ArcherTower4
+  m_EditorClassIdentifier: 
+  towerType: 0
+  rank: 3
+  attackType: 0
+  towerName: "\uAD81\uC218\uD0C0\uC6CC4"
+  attack: 31
+  attackSpeed: 1.82
+  attackRange: 5.6
+  attackSplashRange: 0
+  attackTargetCount: 2
+  towerPrefab: {fileID: 2491625023177976369, guid: 840e663dd775cfa4392cb3caa36c06e0, type: 3}
+  attackBonus: 5
+  attackSpeedBonus: 0.045
+  attackRangeBonus: 0.1
+  attackSplashRangeBonus: 0
+  attackTargetCountBonus: 0.09

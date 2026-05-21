@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d05ada54360d97d49941180f2b13c25d, type: 3}
+  m_Name: AllWaves
+  m_EditorClassIdentifier: 
+  waves:
+  - enemyData: {fileID: 11400000, guid: 73fd11a2ff1d3da4d8c69767419c71bf, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: eea94a37cfc89c041a874c887487f7fc, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 622910a2a8281074da8405c044eceabe, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 0d88231944308d3469d122a32a9b798a, type: 2}
+    enemyCount: 60
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 3498c2592f2aad94ea4f6d1a496c7e12, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.25
+  - enemyData: {fileID: 11400000, guid: 395310d9ac20e6849934ca4c9d247c4a, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: ae14737b43bca5d4089d46d01b582ad8, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 719e6670c42205e4ebf11f817bbf896f, type: 2}
+    enemyCount: 50
+    spawnInterval: 0.3
+  - enemyData: {fileID: 11400000, guid: f4c4860f4cb9c6c4b9a22164be266ce2, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: f9234384f30ac714499241e2237a8dff, type: 2}
+    enemyCount: 50
+    spawnInterval: 0.3
+  - enemyData: {fileID: 11400000, guid: 48237f2234ef8354487c0ce673b7d262, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 98269988dafe0b14fbd99e5a50b5030b, type: 2}
+    enemyCount: 40
+    spawnInterval: 0.4
+  - enemyData: {fileID: 11400000, guid: 37bb653f043f537408d50cdfef131f70, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 5edfab1b25f790b439c449301ba6dddd, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 9dddb3f700a4be84695706f543806809, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: dc6a5e05bad2c2949931fb4084328ae8, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: e08c045c766de4c48aa5001d4136b3c8, type: 2}
+    enemyCount: 50
+    spawnInterval: 0.35
+  - enemyData: {fileID: 11400000, guid: deada6defb4842943b7e2922ff67224b, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: fabae448839d30c4884cbad10e44048a, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 3d24fa6bc0a2d27408748fd1ab928a6e, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: bd36cce5293cdba429003cdf6297a9e4, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 762d4103bfce2a447affb7fba59f8d69, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 30f582af14d11d94388e86b7612dcf0a, type: 2}
+    enemyCount: 60
+    spawnInterval: 0.25
+  - enemyData: {fileID: 11400000, guid: 410203fee959bdf4eba6eaea00a001fb, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: b8fa54660372be44f8343a5a831bbbaa, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 6efec470a6be1f24bb4048a61025c539, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 77918af6b0ca8444aa7218dcd099c8ca, type: 2}
+    enemyCount: 40
+    spawnInterval: 0.4
+  - enemyData: {fileID: 11400000, guid: 9ce91121d194e9b4380e5e5c06071b60, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: aeb9b62d9d475a54d92e42b8741deebc, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+  - enemyData: {fileID: 11400000, guid: 518e45c24f78f6843a65b89c7e250ec9, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5

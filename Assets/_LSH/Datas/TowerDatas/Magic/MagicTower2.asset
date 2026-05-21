@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96127a7e5cc3f2d4ab06e321f525b42f, type: 3}
+  m_Name: MagicTower2
+  m_EditorClassIdentifier: 
+  towerType: 2
+  rank: 1
+  attackType: 1
+  towerName: "\uB9C8\uBC95\uD0C0\uC6CC2"
+  attack: 26
+  attackSpeed: 1.18
+  attackRange: 7
+  attackSplashRange: 0
+  attackTargetCount: 1
+  towerPrefab: {fileID: 7839668499237878314, guid: e4daa33d2171c744191f9a329b56171e, type: 3}
+  attackBonus: 4
+  attackSpeedBonus: 0.03
+  attackRangeBonus: 0.15
+  attackSplashRangeBonus: 0.02
+  attackTargetCountBonus: 0

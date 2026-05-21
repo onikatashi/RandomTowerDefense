@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96127a7e5cc3f2d4ab06e321f525b42f, type: 3}
+  m_Name: LightningTower3
+  m_EditorClassIdentifier: 
+  towerType: 4
+  rank: 2
+  attackType: 2
+  towerName: "\uBC88\uAC1C\uD0C0\uC6CC3"
+  attack: 25
+  attackSpeed: 4.76
+  attackRange: 5.2
+  attackSplashRange: 0
+  attackTargetCount: 1
+  towerPrefab: {fileID: 6008379765805594722, guid: ef3045dfde10f1f4682f95d9e53c2568, type: 3}
+  attackBonus: 3
+  attackSpeedBonus: 0.1
+  attackRangeBonus: 0.06
+  attackSplashRangeBonus: 0
+  attackTargetCountBonus: 0

@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: bc47803aa23ba4a4a88fe0566dcf39b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2029787494143456714
+    second: Firewasp_0
+  - first:
+      213: 3457381831468185207
+    second: Firewasp_1
+  - first:
+      213: -1885102374793239424
+    second: Firewasp_2
+  - first:
+      213: -3837019916798894561
+    second: Firewasp_3
+  - first:
+      213: 5354772586484609329
+    second: Firewasp_4
+  - first:
+      213: 105588322577175701
+    second: Firewasp_5
+  - first:
+      213: -7354796716695257889
+    second: Firewasp_6
+  - first:
+      213: -2526282951849048222
+    second: Firewasp_7
+  - first:
+      213: 2185399684134061297
+    second: Firewasp_8
+  - first:
+      213: 7193700196477499985
+    second: Firewasp_9
+  - first:
+      213: -954924814524892061
+    second: Firewasp_10
+  - first:
+      213: -1060100144505171001
+    second: Firewasp_11
+  - first:
+      213: -8799972546318930417
+    second: Firewasp_12
+  - first:
+      213: 5820444399646996932
+    second: Firewasp_13
+  - first:
+      213: -5542599287418073620
+    second: Firewasp_14
+  - first:
+      213: -2030695808433155948
+    second: Firewasp_15
+  - first:
+      213: -1273228483634024442
+    second: Firewasp_16
+  - first:
+      213: 1622571912022865629
+    second: Firewasp_17
+  - first:
+      213: 2254516527224607332
+    second: Firewasp_18
+  - first:
+      213: 4121052306156775986
+    second: Firewasp_19
+  - first:
+      213: -2982001483382485402
+    second: Firewasp_20
+  - first:
+      213: -4903754866611291909
+    second: Firewasp_21
+  - first:
+      213: 8868652790648396299
+    second: Firewasp_22
+  - first:
+      213: 5195968576086155423
+    second: Firewasp_23
+  - first:
+      213: -775801521311364558
+    second: Firewasp_24
+  - first:
+      213: 4684989631261834958
+    second: Firewasp_25
+  - first:
+      213: 4366470413680984565
+    second: Firewasp_26
+  - first:
+      213: 65915259584865657
+    second: Firewasp_27
+  - first:
+      213: 7580439923485011060
+    second: Firewasp_28
+  - first:
+      213: 8748064970238433179
+    second: Firewasp_29
+  - first:
+      213: 6543846071214835068
+    second: Firewasp_30
+  - first:
+      213: -8850006325446948184
+    second: Firewasp_31
+  - first:
+      213: 6614343196348727320
+    second: Firewasp_32
+  - first:
+      213: -823458085365339859
+    second: Firewasp_33
+  - first:
+      213: 8070812233538561778
+    second: Firewasp_34
+  - first:
+      213: -8933916537429225723
+    second: Firewasp_35
+  - first:
+      213: -2783437111204376934
+    second: Firewasp_36
+  - first:
+      213: 1462289556900434356
+    second: Firewasp_37
+  - first:
+      213: 6880903257373691876
+    second: Firewasp_38
+  - first:
+      213: 371601352601408059
+    second: Firewasp_39
+  - first:
+      213: -5963004043246839580
+    second: Firewasp_40
+  - first:
+      213: -3016110161183592384
+    second: Firewasp_41
+  - first:
+      213: 5653787269432826948
+    second: Firewasp_42
+  - first:
+      213: -2878900999125071691
+    second: Firewasp_43
+  - first:
+      213: 7821484618518792176
+    second: Firewasp_44
+  - first:
+      213: -7876772917204669059
+    second: Firewasp_45
+  - first:
+      213: -5029565305048145381
+    second: Firewasp_46
+  - first:
+      213: 3195051540101844877
+    second: Firewasp_47
+  - first:
+      213: 1676447410539633972
+    second: Firewasp_48
+  - first:
+      213: 3240311166029185161
+    second: Firewasp_49
+  - first:
+      213: -4900118755650677104
+    second: Firewasp_50
+  - first:
+      213: -6476027758298298335
+    second: Firewasp_51
+  - first:
+      213: -1837725463514182583
+    second: Firewasp_52
+  - first:
+      213: 106687387394117573
+    second: Firewasp_53
+  - first:
+      213: -1827740204313447118
+    second: Firewasp_54
+  - first:
+      213: 9162731662468310503
+    second: Firewasp_55
+  - first:
+      213: 330245005339590328
+    second: Firewasp_56
+  - first:
+      213: -3657707097336881901
+    second: Firewasp_57
+  - first:
+      213: 604690028739566105
+    second: Firewasp_58
+  - first:
+      213: -661270858107453953
+    second: Firewasp_59
+  - first:
+      213: 8017378420686862827
+    second: Firewasp_60
+  - first:
+      213: 5471227017857824769
+    second: Firewasp_61
+  - first:
+      213: -6924881565323092563
+    second: Firewasp_62
+  - first:
+      213: 5310212871699446020
+    second: Firewasp_63
+  - first:
+      213: -6456234611654406735
+    second: Firewasp_64
+  - first:
+      213: -7123437725201378267
+    second: Firewasp_65
+  - first:
+      213: -3757784811648945739
+    second: Firewasp_66
+  - first:
+      213: 4948672438724321374
+    second: Firewasp_67
+  - first:
+      213: 2112307104237291013
+    second: Firewasp_68
+  - first:
+      213: 7119762953888148230
+    second: Firewasp_69
+  - first:
+      213: -3965398844033095220
+    second: Firewasp_70
+  - first:
+      213: -8251143534162296157
+    second: Firewasp_71
+  - first:
+      213: 6564662933079275836
+    second: Firewasp_72
+  - first:
+      213: 1439170287253846968
+    second: Firewasp_73
+  - first:
+      213: -1132910217908747341
+    second: Firewasp_74
+  - first:
+      213: -7794081185051022887
+    second: Firewasp_75
+  - first:
+      213: -5390186377494601444
+    second: Firewasp_76
+  - first:
+      213: -7047729504999967801
+    second: Firewasp_77
+  - first:
+      213: -8748544209912440840
+    second: Firewasp_78
+  - first:
+      213: -1443415346817178522
+    second: Firewasp_79
+  - first:
+      213: 2875278832593539754
+    second: Firewasp_80
+  - first:
+      213: 19983358090713339
+    second: Firewasp_81
+  - first:
+      213: 735114874282029504
+    second: Firewasp_82
+  - first:
+      213: -2841550140491658381
+    second: Firewasp_83
+  - first:
+      213: 5302437330258086419
+    second: Firewasp_84
+  - first:
+      213: -6023738050174543076
+    second: Firewasp_85
+  - first:
+      213: -4144497222702706626
+    second: Firewasp_86
+  - first:
+      213: 9143440338610046047
+    second: Firewasp_87
+  - first:
+      213: -1858526219937440923
+    second: Firewasp_88
+  - first:
+      213: 5982466189694242507
+    second: Firewasp_89
+  - first:
+      213: 7459869368696561105
+    second: Firewasp_90
+  - first:
+      213: 3725491150789668074
+    second: Firewasp_91
+  - first:
+      213: -1823089115408001371
+    second: Firewasp_92
+  - first:
+      213: -341701284112416306
+    second: Firewasp_93
+  - first:
+      213: 4880541223125876057
+    second: Firewasp_94
+  - first:
+      213: 7562452676938566770
+    second: Firewasp_95
+  - first:
+      213: -3624064861602604018
+    second: Firewasp_96
+  - first:
+      213: -5386825206248221270
+    second: Firewasp_97
+  - first:
+      213: 5766060157641079778
+    second: Firewasp_98
+  - first:
+      213: 1030574591125847347
+    second: Firewasp_99
+  - first:
+      213: 5150993372377931172
+    second: Firewasp_100
+  - first:
+      213: -918773418449878491
+    second: Firewasp_101
+  - first:
+      213: 6617340535565338590
+    second: Firewasp_102
+  - first:
+      213: 3140973591005328213
+    second: Firewasp_103
+  - first:
+      213: -4803611252125648677
+    second: Firewasp_104
+  - first:
+      213: -9020604518467001167
+    second: Firewasp_105
+  - first:
+      213: 2294415536979304543
+    second: Firewasp_106
+  - first:
+      213: 2703245045018635484
+    second: Firewasp_107
+  - first:
+      213: -8377495698206278625
+    second: Firewasp_108
+  - first:
+      213: -6235041738872764413
+    second: Firewasp_109
+  - first:
+      213: -9118704627666406458
+    second: Firewasp_110
+  - first:
+      213: -6358340420880871481
+    second: Firewasp_111
+  - first:
+      213: -749340499931161911
+    second: Firewasp_112
+  - first:
+      213: -9143397698017913972
+    second: Firewasp_113
+  - first:
+      213: 6984478354348263684
+    second: Firewasp_114
+  - first:
+      213: -4741994262095319083
+    second: Firewasp_115
+  - first:
+      213: -3454384256809566085
+    second: Firewasp_116
+  - first:
+      213: 6448028499074845485
+    second: Firewasp_117
+  - first:
+      213: 8686016384967764036
+    second: Firewasp_118
+  - first:
+      213: 7287353592318340319
+    second: Firewasp_119
+  - first:
+      213: -472910957783751167
+    second: Firewasp_120
+  - first:
+      213: 8124922210796239173
+    second: Firewasp_121
+  - first:
+      213: -5411586337032480765
+    second: Firewasp_122
+  - first:
+      213: 4576626085922906199
+    second: Firewasp_123
+  - first:
+      213: 36438301629580402
+    second: Firewasp_124
+  - first:
+      213: 5259122587933164265
+    second: Firewasp_125
+  - first:
+      213: -2433798191934595762
+    second: Firewasp_126
+  - first:
+      213: -1448682960595489407
+    second: Firewasp_127
+  - first:
+      213: 4370054664663727610
+    second: Firewasp_128
+  - first:
+      213: -5607806753450285396
+    second: Firewasp_129
+  - first:
+      213: 5356402693507039100
+    second: Firewasp_130
+  - first:
+      213: -7110364373499848100
+    second: Firewasp_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firewasp_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 788
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac573fdb8f04b2c10800000000000000
+      internalID: 2029787494143456714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 787
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776fc8d25761bff20800000000000000
+      internalID: 3457381831468185207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842439b065c6d5e0800000000000000
+      internalID: -1885102374793239424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 790
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e5a1f07ba20cac0800000000000000
+      internalID: -3837019916798894561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 791
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313a6eeb49ff4a40800000000000000
+      internalID: 5354772586484609329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59454ab1500277100800000000000000
+      internalID: 105588322577175701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 788
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7b228a538ee990800000000000000
+      internalID: -7354796716695257889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 787
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26789e44a07d0fcd0800000000000000
+      internalID: -2526282951849048222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4cf091f69145e10800000000000000
+      internalID: 2185399684134061297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 790
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af2bff63825d360800000000000000
+      internalID: 7193700196477499985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 791
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cb90bc0fc6fb2f0800000000000000
+      internalID: -954924814524892061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3dd640984c941f0800000000000000
+      internalID: -1060100144505171001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e6877e79730e580800000000000000
+      internalID: -8799972546318930417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 693
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9fedbe75f56c050800000000000000
+      internalID: 5820444399646996932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcc15605bb413b0800000000000000
+      internalID: -5542599287418073620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490977bdbe481d3e0800000000000000
+      internalID: -2030695808433155948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 696
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b513a075945ee0800000000000000
+      internalID: -1273228483634024442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd636a6ae88848610800000000000000
+      internalID: 1622571912022865629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462587926d6a94f10800000000000000
+      internalID: 2254516527224607332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a6749fc3be03930800000000000000
+      internalID: 4121052306156775986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 693
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e8c4f337dcd96d0800000000000000
+      internalID: -2982001483382485402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf87a061eec52fbb0800000000000000
+      internalID: -4903754866611291909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0adfd699b8c31b70800000000000000
+      internalID: 8868652790648396299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_23
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 696
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9025b9f3e9cb1840800000000000000
+      internalID: 5195968576086155423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_25
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceffbb5f3d640140800000000000000
+      internalID: 4684989631261834958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 614
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f145b9e4b1d89c30800000000000000
+      internalID: 4366470413680984565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 593
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97565d0549d2ae000800000000000000
+      internalID: 65915259584865657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c638092f1233960800000000000000
+      internalID: 7580439923485011060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 590
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97991fbdbe576970800000000000000
+      internalID: 8748064970238433179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 588
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa46c7e2267e2580800000000000000
+      internalID: -8850006325446948184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 592
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292066fb3d7294f0800000000000000
+      internalID: -823458085365339859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_34
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 614
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f661f427f8410070800000000000000
+      internalID: 8070812233538561778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 593
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0b8d3e3a540480800000000000000
+      internalID: -8933916537429225723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_36
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 592
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e0604d1be3f59d0800000000000000
+      internalID: -2783437111204376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_37
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 588
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b150ddba981b4410800000000000000
+      internalID: 1462289556900434356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 587
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329cdb1671382500800000000000000
+      internalID: 371601352601408059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_41
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 592
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b437d9cf9426d0800000000000000
+      internalID: -3016110161183592384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8befc182514459400800000000000000
+      internalID: 330245005339590328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 499
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5fca36c63d3dc0800000000000000
+      internalID: -3657707097336881901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a1e3a906a446800800000000000000
+      internalID: 604690028739566105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 501
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdff2a78a1b2d6f0800000000000000
+      internalID: -661270858107453953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93cea1233734f60800000000000000
+      internalID: 8017378420686862827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_61
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 499
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087fe42cf3bdeb40800000000000000
+      internalID: 5471227017857824769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad144be7e0e5ef90800000000000000
+      internalID: -6924881565323092563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_63
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 501
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4093a5bd87aa1b940800000000000000
+      internalID: 5310212871699446020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc1c9c3d8d666a0800000000000000
+      internalID: -6456234611654406735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 405
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52451c96127742d90800000000000000
+      internalID: -7123437725201378267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b17e479f9aa9dbc0800000000000000
+      internalID: -3757784811648945739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 407
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50ede32d573da440800000000000000
+      internalID: 4948672438724321374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506099cae1c605d10800000000000000
+      internalID: 2112307104237291013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 405
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b2d773faa7ec260800000000000000
+      internalID: 7119762953888148230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_70
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a9acc2c218f8c0800000000000000
+      internalID: -3965398844033095220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 407
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ce7f0cac0e7d80800000000000000
+      internalID: -8251143534162296157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 303
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393d54182e5a1b50800000000000000
+      internalID: 6564662933079275836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 304
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbff0f40c5f8f310800000000000000
+      internalID: 1439170287253846968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 304
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38323c8281740f0800000000000000
+      internalID: -1132910217908747341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 303
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96a7ef47cd5d390800000000000000
+      internalID: -7794081185051022887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 304
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ff6d0b5f613e90800000000000000
+      internalID: -7047729504999967801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_78
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 304
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75e52946de69680800000000000000
+      internalID: -8748544209912440840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 304
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646d9db365f7fbe0800000000000000
+      internalID: -1443415346817178522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_80
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 302
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa210f64dda07e720800000000000000
+      internalID: 2875278832593539754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d711c526a2bb340800000000000000
+      internalID: 4880541223125876057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 214
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c00af54aa33f860800000000000000
+      internalID: 7562452676938566770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_96
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 215
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9331a53cb4bdc0800000000000000
+      internalID: -3624064861602604018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_97
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 215
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5547af3072e35b0800000000000000
+      internalID: -5386825206248221270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_98
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 211
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebbab9d929250050800000000000000
+      internalID: 5766060157641079778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 206
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d799261265d4e00800000000000000
+      internalID: 1030574591125847347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_100
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 204
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad5af85e210c7740800000000000000
+      internalID: 5150993372377931172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_101
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 203
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522493c917cdf33f0800000000000000
+      internalID: -918773418449878491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_102
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed74a2c282485db50800000000000000
+      internalID: 6617340535565338590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_103
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55371c4e6daf69b20800000000000000
+      internalID: 3140973591005328213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_104
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83bfd4405265db0800000000000000
+      internalID: -4803611252125648677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_105
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 207
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ad71dbff50d280800000000000000
+      internalID: -9020604518467001167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 118
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e9c846c667df10800000000000000
+      internalID: 2294415536979304543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_107
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 121
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcab29cb0bd38520800000000000000
+      internalID: 2703245045018635484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3d016c082dbb80800000000000000
+      internalID: -8377495698206278625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30841cab29ea879a0800000000000000
+      internalID: -6235041738872764413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_110
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 117
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bb30447ad37180800000000000000
+      internalID: -9118704627666406458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf436c3313a2c7a0800000000000000
+      internalID: -6358340420880871481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_112
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 108
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1ac519cec995f0800000000000000
+      internalID: -749340499931161911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_113
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 107
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839489cc302c1180800000000000000
+      internalID: -9143397698017913972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_114
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 108
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094554de0adde060800000000000000
+      internalID: 6984478354348263684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_115
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 106
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df2ed0c75d013eb0800000000000000
+      internalID: -4741994262095319083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_116
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 106
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b700a2f02df8f00d0800000000000000
+      internalID: -3454384256809566085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_117
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 111
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b83fcb1cffb7950800000000000000
+      internalID: 6448028499074845485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_118
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448e933b1edea8870800000000000000
+      internalID: 8686016384967764036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_119
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc2dce6b71e12560800000000000000
+      internalID: 7287353592318340319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e8ee4df1ef69f0800000000000000
+      internalID: -472910957783751167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_121
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549f03af3b581c070800000000000000
+      internalID: 8124922210796239173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30852d5f5ee26e4b0800000000000000
+      internalID: -5411586337032480765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_123
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 42
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a8395d21738f30800000000000000
+      internalID: 4576626085922906199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 37
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27489d83174718000800000000000000
+      internalID: 36438301629580402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_125
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 31
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24df331282cf840800000000000000
+      internalID: 5259122587933164265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_126
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 11
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d10c27079693ed0800000000000000
+      internalID: -2433798191934595762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_127
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d6b85d58e35ebe0800000000000000
+      internalID: -1448682960595489407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_128
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf150609d85ac30800000000000000
+      internalID: 4370054664663727610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_129
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca62f8b18711d22b0800000000000000
+      internalID: -5607806753450285396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_130
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbe6cced3c55a40800000000000000
+      internalID: 5356402693507039100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewasp_131
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ad2fd4649e25d90800000000000000
+      internalID: -7110364373499848100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2b069cee727620e47a3c5a6d8a1787e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Firewasp_0: 2029787494143456714
+      Firewasp_1: 3457381831468185207
+      Firewasp_10: -954924814524892061
+      Firewasp_100: 5150993372377931172
+      Firewasp_101: -918773418449878491
+      Firewasp_102: 6617340535565338590
+      Firewasp_103: 3140973591005328213
+      Firewasp_104: -4803611252125648677
+      Firewasp_105: -9020604518467001167
+      Firewasp_106: 2294415536979304543
+      Firewasp_107: 2703245045018635484
+      Firewasp_108: -8377495698206278625
+      Firewasp_109: -6235041738872764413
+      Firewasp_11: -1060100144505171001
+      Firewasp_110: -9118704627666406458
+      Firewasp_111: -6358340420880871481
+      Firewasp_112: -749340499931161911
+      Firewasp_113: -9143397698017913972
+      Firewasp_114: 6984478354348263684
+      Firewasp_115: -4741994262095319083
+      Firewasp_116: -3454384256809566085
+      Firewasp_117: 6448028499074845485
+      Firewasp_118: 8686016384967764036
+      Firewasp_119: 7287353592318340319
+      Firewasp_12: -8799972546318930417
+      Firewasp_120: -472910957783751167
+      Firewasp_121: 8124922210796239173
+      Firewasp_122: -5411586337032480765
+      Firewasp_123: 4576626085922906199
+      Firewasp_124: 36438301629580402
+      Firewasp_125: 5259122587933164265
+      Firewasp_126: -2433798191934595762
+      Firewasp_127: -1448682960595489407
+      Firewasp_128: 4370054664663727610
+      Firewasp_129: -5607806753450285396
+      Firewasp_13: 5820444399646996932
+      Firewasp_130: 5356402693507039100
+      Firewasp_131: -7110364373499848100
+      Firewasp_14: -5542599287418073620
+      Firewasp_15: -2030695808433155948
+      Firewasp_16: -1273228483634024442
+      Firewasp_17: 1622571912022865629
+      Firewasp_18: 2254516527224607332
+      Firewasp_19: 4121052306156775986
+      Firewasp_2: -1885102374793239424
+      Firewasp_20: -2982001483382485402
+      Firewasp_21: -4903754866611291909
+      Firewasp_22: 8868652790648396299
+      Firewasp_23: 5195968576086155423
+      Firewasp_24: -775801521311364558
+      Firewasp_25: 4684989631261834958
+      Firewasp_26: 4366470413680984565
+      Firewasp_27: 65915259584865657
+      Firewasp_28: 7580439923485011060
+      Firewasp_29: 8748064970238433179
+      Firewasp_3: -3837019916798894561
+      Firewasp_30: 6543846071214835068
+      Firewasp_31: -8850006325446948184
+      Firewasp_32: 6614343196348727320
+      Firewasp_33: -823458085365339859
+      Firewasp_34: 8070812233538561778
+      Firewasp_35: -8933916537429225723
+      Firewasp_36: -2783437111204376934
+      Firewasp_37: 1462289556900434356
+      Firewasp_38: 6880903257373691876
+      Firewasp_39: 371601352601408059
+      Firewasp_4: 5354772586484609329
+      Firewasp_40: -5963004043246839580
+      Firewasp_41: -3016110161183592384
+      Firewasp_42: 5653787269432826948
+      Firewasp_43: -2878900999125071691
+      Firewasp_44: 7821484618518792176
+      Firewasp_45: -7876772917204669059
+      Firewasp_46: -5029565305048145381
+      Firewasp_47: 3195051540101844877
+      Firewasp_48: 1676447410539633972
+      Firewasp_49: 3240311166029185161
+      Firewasp_5: 105588322577175701
+      Firewasp_50: -4900118755650677104
+      Firewasp_51: -6476027758298298335
+      Firewasp_52: -1837725463514182583
+      Firewasp_53: 106687387394117573
+      Firewasp_54: -1827740204313447118
+      Firewasp_55: 9162731662468310503
+      Firewasp_56: 330245005339590328
+      Firewasp_57: -3657707097336881901
+      Firewasp_58: 604690028739566105
+      Firewasp_59: -661270858107453953
+      Firewasp_6: -7354796716695257889
+      Firewasp_60: 8017378420686862827
+      Firewasp_61: 5471227017857824769
+      Firewasp_62: -6924881565323092563
+      Firewasp_63: 5310212871699446020
+      Firewasp_64: -6456234611654406735
+      Firewasp_65: -7123437725201378267
+      Firewasp_66: -3757784811648945739
+      Firewasp_67: 4948672438724321374
+      Firewasp_68: 2112307104237291013
+      Firewasp_69: 7119762953888148230
+      Firewasp_7: -2526282951849048222
+      Firewasp_70: -3965398844033095220
+      Firewasp_71: -8251143534162296157
+      Firewasp_72: 6564662933079275836
+      Firewasp_73: 1439170287253846968
+      Firewasp_74: -1132910217908747341
+      Firewasp_75: -7794081185051022887
+      Firewasp_76: -5390186377494601444
+      Firewasp_77: -7047729504999967801
+      Firewasp_78: -8748544209912440840
+      Firewasp_79: -1443415346817178522
+      Firewasp_8: 2185399684134061297
+      Firewasp_80: 2875278832593539754
+      Firewasp_81: 19983358090713339
+      Firewasp_82: 735114874282029504
+      Firewasp_83: -2841550140491658381
+      Firewasp_84: 5302437330258086419
+      Firewasp_85: -6023738050174543076
+      Firewasp_86: -4144497222702706626
+      Firewasp_87: 9143440338610046047
+      Firewasp_88: -1858526219937440923
+      Firewasp_89: 5982466189694242507
+      Firewasp_9: 7193700196477499985
+      Firewasp_90: 7459869368696561105
+      Firewasp_91: 3725491150789668074
+      Firewasp_92: -1823089115408001371
+      Firewasp_93: -341701284112416306
+      Firewasp_94: 4880541223125876057
+      Firewasp_95: 7562452676938566770
+      Firewasp_96: -3624064861602604018
+      Firewasp_97: -5386825206248221270
+      Firewasp_98: 5766060157641079778
+      Firewasp_99: 1030574591125847347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

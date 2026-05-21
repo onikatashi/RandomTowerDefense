@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1adca7d5f59b7c749a85e427aac62f50, type: 3}
+  m_Name: Wave27Enemy
+  m_EditorClassIdentifier: 
+  enemyName: Scorpion
+  hp: 4500
+  speed: 8.5
+  armor: 5
+  armorType: 0
+  rewardGold: 8
+  enemyPrefab: {fileID: 98226059678299810, guid: 4c347a4c5431b5148bcaf29c224f433e, type: 3}
+  isBoss: 0
+  isMission: 0

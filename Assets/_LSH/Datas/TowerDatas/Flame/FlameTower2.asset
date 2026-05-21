@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96127a7e5cc3f2d4ab06e321f525b42f, type: 3}
+  m_Name: FlameTower2
+  m_EditorClassIdentifier: 
+  towerType: 3
+  rank: 1
+  attackType: 2
+  towerName: "\uD654\uC5FC\uD0C0\uC6CC2"
+  attack: 60
+  attackSpeed: 0.91
+  attackRange: 4.6
+  attackSplashRange: 0.6
+  attackTargetCount: 1
+  towerPrefab: {fileID: 7327873494504140883, guid: 2dad36afc2409d54ebaa9a9de380e28b, type: 3}
+  attackBonus: 6
+  attackSpeedBonus: 0.012
+  attackRangeBonus: 0.05
+  attackSplashRangeBonus: 0.1
+  attackTargetCountBonus: 0

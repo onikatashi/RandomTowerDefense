@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0eb8743d7ac0d8946be62c5d5131e30a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1027414308544047895
+    second: objective_die_fx_36_0
+  - first:
+      213: 5511535013285263524
+    second: objective_die_fx_36_1
+  - first:
+      213: 8122866328464185867
+    second: objective_die_fx_36_2
+  - first:
+      213: -5510619045481472503
+    second: objective_die_fx_36_3
+  - first:
+      213: 3078243687961761322
+    second: objective_die_fx_36_4
+  - first:
+      213: 651789435760639461
+    second: objective_die_fx_36_5
+  - first:
+      213: -8601789182585917791
+    second: objective_die_fx_36_6
+  - first:
+      213: 2955035150585115424
+    second: objective_die_fx_36_7
+  - first:
+      213: -4272646553174769769
+    second: objective_die_fx_36_8
+  - first:
+      213: 3926990722295777032
+    second: objective_die_fx_36_9
+  - first:
+      213: -8184035634977013592
+    second: objective_die_fx_36_10
+  - first:
+      213: 4536211621253495939
+    second: objective_die_fx_36_11
+  - first:
+      213: -448168949081808873
+    second: objective_die_fx_36_12
+  - first:
+      213: -2694933108359689303
+    second: objective_die_fx_36_13
+  - first:
+      213: 424770462834631558
+    second: objective_die_fx_36_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objective_die_fx_36_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 295
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bebe1cedb124e00800000000000000
+      internalID: 1027414308544047895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 373
+        width: 108
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fef9a4e7ec7c40800000000000000
+      internalID: 5511535013285263524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 174
+        width: 318
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad61293e73ab070800000000000000
+      internalID: 8122866328464185867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e1395bc295683b0800000000000000
+      internalID: -5510619045481472503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a269c01335e18ba20800000000000000
+      internalID: 3078243687961761322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 139
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7ddad90f9b0900800000000000000
+      internalID: 651789435760639461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 159
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae2b2b005e40a880800000000000000
+      internalID: -8601789182585917791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233b6120d4620920800000000000000
+      internalID: 2955035150585115424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 116
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f783be89284b4c0800000000000000
+      internalID: -4272646553174769769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 68
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c1be71497f7630800000000000000
+      internalID: 3926990722295777032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08e0c63f67c6e80800000000000000
+      internalID: -8184035634977013592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 28
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c30d68f6cd3fe30800000000000000
+      internalID: 4536211621253495939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106e9e17b8c7c9f0800000000000000
+      internalID: -448168949081808873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 25
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab08c6cd9ca99ad0800000000000000
+      internalID: -2694933108359689303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objective_die_fx_36_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 21
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68326544c7615e500800000000000000
+      internalID: 424770462834631558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      objective_die_fx_36_0: 1027414308544047895
+      objective_die_fx_36_1: 5511535013285263524
+      objective_die_fx_36_10: -8184035634977013592
+      objective_die_fx_36_11: 4536211621253495939
+      objective_die_fx_36_12: -448168949081808873
+      objective_die_fx_36_13: -2694933108359689303
+      objective_die_fx_36_14: 424770462834631558
+      objective_die_fx_36_2: 8122866328464185867
+      objective_die_fx_36_3: -5510619045481472503
+      objective_die_fx_36_4: 3078243687961761322
+      objective_die_fx_36_5: 651789435760639461
+      objective_die_fx_36_6: -8601789182585917791
+      objective_die_fx_36_7: 2955035150585115424
+      objective_die_fx_36_8: -4272646553174769769
+      objective_die_fx_36_9: 3926990722295777032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

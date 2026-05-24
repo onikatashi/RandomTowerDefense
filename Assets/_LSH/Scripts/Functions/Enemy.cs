@@ -147,7 +147,7 @@ public class Enemy : MonoBehaviour
         // 일반 웨이브 몬스터가 목적지에 도달했을 때
         else
         {
-            gameManager.gold += rewardGold * 2;
+            gameManager.Gold += rewardGold * 2;
         }
 
         // 플레이어 남은 체력(목숨) 감소
@@ -189,7 +189,7 @@ public class Enemy : MonoBehaviour
         isDying = true;
 
         // 처치 보상 획득
-        gameManager.gold += rewardGold;
+        gameManager.Gold += rewardGold;
         if (enemyData.isMission)
         {
             uiManager.UpdateMissionEnemyUI(waveManager.missionEnemyMultiplier);

@@ -90,10 +90,10 @@ public class UpgradeManager : MonoBehaviour
         uiManager.HideTowerInfoPanel();
 
         // 소지 골드가 소모 골드보다 많을 때 (조건 만족 시)
-        if (GameManager.Instance.gold >= requireGold)
+        if (GameManager.Instance.Gold >= requireGold)
         {
             soundManager.Play("UpgradeClick");
-            GameManager.Instance.gold -= requireGold;
+            GameManager.Instance.Gold -= requireGold;
             state.level++;
 
             // 필드에 배치된 동일한 타입의 타워들에게 업그레이드 적용

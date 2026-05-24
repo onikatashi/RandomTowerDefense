@@ -115,7 +115,7 @@ public class TowerManager : MonoBehaviour
         }
 
         // 골드 보유량 확인
-        if (gameManager.gold >= towerCost)
+        if (gameManager.Gold >= towerCost)
         {
             isBuilding = true;
             uiManager.HideTowerInfoPanel();
@@ -260,7 +260,7 @@ public class TowerManager : MonoBehaviour
             if (CheckPlacemnetValidity(lastCellPosition))
             {
                 // 재화 보유량 확인 (이중 체크)
-                if (gameManager.gold < towerCost)
+                if (gameManager.Gold < towerCost)
                 {
                     // TODO: UI에 보유 골드 부족 메시지 표시 로직 필요
                     return;
@@ -313,7 +313,7 @@ public class TowerManager : MonoBehaviour
                     soundManager.Play("TowerBuild");
 
                     // 골드 차감
-                    gameManager.gold -= towerCost;
+                    gameManager.Gold -= towerCost;
                     // TODO: UIManager를 통한 상단 UI 골드 텍스트 갱신 로직 추가 필요
 
                     // 건설 모드 종료 및 가이드라인 클리어
@@ -374,7 +374,7 @@ public class TowerManager : MonoBehaviour
             // 골드 지급
             if (gameManager != null)
             {
-                gameManager.gold += sellGold;
+                gameManager.Gold += sellGold;
             }
         }
 

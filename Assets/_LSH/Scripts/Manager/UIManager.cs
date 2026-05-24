@@ -204,6 +204,35 @@ public class UIManager : MonoBehaviour
         masterText.text = $"{(masterSlider.value * 100):0} %";
         bgmText.text = $"{(bgmSlider.value * 100):0} %";
         sfxText.text = $"{(sfxSlider.value * 100):0} %";
+
+        // 이벤트 구독 등록
+        GameManager.OnGoldChanged += OnGoldChanged;
+        GameManager.OnPlayerHpChanaged += OnPlayerHpChanged;
+
+        // 초기값 강제 동기화
+        OnGoldChanged(gameManager.Gold);
+        OnPlayerHpChanged(gameManager.PlayerHp);
+    }
+
+    private void OnDestroy()
+    {
+        // 이벤트 구독 해제
+        GameManager.OnGoldChanged -= OnGoldChanged;
+        GameManager.OnPlayerHpChanaged -= OnPlayerHpChanged;
+    }
+    
+    // 골드 변경 시 호출
+    private void OnGoldChanged(int gold)
+    {
+        playerGoldValue.text = gold.ToString() + " G";
+        SetBuildTowerButtonInteractable();
+        UpdateTotalUpgradeStateUI();
+    }
+
+    // 플레이어 HP 변경 시 호출
+    private void OnPlayerHpChanged(int hp)
+    {
+        playerHpValue.text = hp.ToString();
     }
 
     // 미션 쿨타임에 따른 미션 버튼 활성화/비활성화 함수
@@ -228,7 +257,7 @@ public class UIManager : MonoBehaviour
     {
         if (buildTowerButton != null)
         {
-            if (gameManager.gold >= towerManager.towerCost)
+            if (gameManager.Gold >= towerManager.towerCost)
             {
                 buildTowerButton.interactable = true;
             }
@@ -266,28 +295,11 @@ public class UIManager : MonoBehaviour
 
     void Update()
     {
-        // 플레이어 상태 UI 상시 갱신
-        UpdatePlayerStateUI();
-
         // 웨이브 남은 시간 UI 상시 갱신
         UpdateWaveUI();
 
         // 웨이브 단계 및 적 세부 정보 UI 상시 갱신
         UpdateEnemyUI();
-
-        // 타워 전체 업그레이드 레벨/비용 UI 상시 갱신
-        UpdateTotalUpgradeStateUI();
-
-        // 타워 건설 버튼의 활성화/비활성화 상태를 소지 골드 조건에 따라 상시 체크
-        SetBuildTowerButtonInteractable();
-    }
-
-    // 플레이어 체력, 보유 골드 텍스트 갱신
-    public void UpdatePlayerStateUI()
-    {
-        if (gameManager == null) return;
-        playerHpValue.text = gameManager.playerHp.ToString();
-        playerGoldValue.text = gameManager.gold.ToString() + " G";
     }
 
     // 웨이브 대기 시간 텍스트 갱신
@@ -347,7 +359,7 @@ public class UIManager : MonoBehaviour
         if (state == null) return;
 
         int cost = state.CurrentCost;
-        bool canUpgrade = gameManager != null && gameManager.gold >= cost;
+        bool canUpgrade = gameManager != null && gameManager.Gold >= cost;
 
         upgradeUI.upgradeLevelValue.text = state.level.ToString();
         upgradeUI.upgradeCostValue.text = cost.ToString() + " G";

@@ -1,4 +1,3 @@
-using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -23,12 +22,21 @@ public class Tower : MonoBehaviour
     [SerializeField]
     private Animator animator;                              // 타워 애니메이터
 
+    private readonly List<Collider2D> colliderBuffer = new List<Collider2D>();
+    private readonly List<Enemy> enemyBuffer = new List<Enemy>();
+
+    private ContactFilter2D contactFilter;
+
     UpgradeManager upgradeManager;
     SoundManager soundManager;
     void Start()
     {
         upgradeManager = UpgradeManager.Instance;
         soundManager = SoundManager.Instance;
+
+        contactFilter = new ContactFilter2D();
+        contactFilter.useTriggers = false;  // 트리거 콜라이더 제외
+        contactFilter.SetLayerMask(LayerMask.GetMask("Enemy")); // Enemy 레이어만 검출
 
         if (upgradeManager != null)
         {
@@ -116,19 +124,24 @@ public class Tower : MonoBehaviour
     // 공격 범위 내 적 찾기
     private Enemy[] FindEnemiesInAttackRange()
     {
-        List<Enemy> enemies = new List<Enemy>();
+        enemyBuffer.Clear();
+        colliderBuffer.Clear();
 
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, CurrentAttackRange);
+        int hitCount = Physics2D.OverlapCircle(
+            transform.position,
+            CurrentAttackRange,
+            new ContactFilter2D().NoFilter(),
+            colliderBuffer);
 
-        foreach (var hit in hits)
+        foreach (Collider2D col in colliderBuffer)
         {
-            Enemy e = hit.GetComponent<Enemy>();
-            if (e != null)
+            if (col.TryGetComponent(out Enemy e))
             {
-                enemies.Add(e);
+                enemyBuffer.Add(e);
             }
         }
-        return enemies.ToArray();
+
+        return enemyBuffer.ToArray();
     }
 
     // 투사체 생성

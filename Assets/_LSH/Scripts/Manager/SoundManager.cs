@@ -1,8 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Rendering;
 
 [System.Serializable]
 public class Sound
@@ -204,18 +202,27 @@ public class SoundManager : MonoBehaviour
         // 효과음은 재생할 때 마다 볼륨이 계산되므로 실시간으로 적용됨
     }
 
+    // currentBGM = "" 일 때 가드 함수
+    private bool IsCurrentBGMValid()
+    {
+        return !string.IsNullOrEmpty(currentBGM) && soundDictionary.ContainsKey(currentBGM);
+    }
+
     public void PauseBGM()
     {
+        if (!IsCurrentBGMValid()) return;
         soundDictionary[currentBGM].source.Pause();
     }
 
     public void ResumeBGM()
     {
+        if (!IsCurrentBGMValid()) return;
         soundDictionary[currentBGM].source.UnPause();
     }
 
     public string GetCurrentBGMTitle()
     {
+        if (!IsCurrentBGMValid()) return string.Empty;
         return soundDictionary[currentBGM].clip.name;
     }
 }

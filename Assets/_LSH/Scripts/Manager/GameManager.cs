@@ -1,15 +1,37 @@
-using TMPro;
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
+    public static event Action<int> OnGoldChanged;
+    public static event Action<int> OnPlayerHpChanaged;
+    
     [Header("플레이어 초기 설정")]
-    public int playerHp;            // 플레이어 체력
-    public int gold;                // 플레이어 골드
+    [SerializeField] private int playerHp = 30;      // 플레이어 체력
+    [SerializeField] private int gold = 500;         // 플레이어 골드
+
+    public int PlayerHp
+    {
+        get => playerHp;
+        set
+        {
+            playerHp = value;
+            OnPlayerHpChanaged?.Invoke(playerHp);
+        }
+    }
+
+    public int Gold
+    {
+        get => gold;
+        set
+        {
+            gold = value;
+            OnGoldChanged?.Invoke(gold);
+        }
+    }
 
     public int currentBgmNumber;    // 현재 BGM 번호
 
@@ -63,9 +85,9 @@ public class GameManager : MonoBehaviour
 
     public void DecreasePlayerHp(int amount)
     {
-        playerHp -= amount;
+        PlayerHp -= amount;
 
-        if (playerHp <= 0)
+        if (PlayerHp <= 0)
         {
             uiManager.EndGame(false);
         }

@@ -170,7 +170,7 @@ public class WaveManager : MonoBehaviour
     // 최종 승리 조건 검증
     private void CheckVictory()
     {
-        if (gameManager.playerHp > 0)
+        if (gameManager.PlayerHp > 0)
         {
             uiManager.EndGame(true);
         }

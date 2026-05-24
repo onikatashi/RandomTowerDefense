@@ -25,18 +25,12 @@ public class Tower : MonoBehaviour
     private readonly List<Collider2D> colliderBuffer = new List<Collider2D>();
     private readonly List<Enemy> enemyBuffer = new List<Enemy>();
 
-    private ContactFilter2D contactFilter;
-
     UpgradeManager upgradeManager;
     SoundManager soundManager;
     void Start()
     {
         upgradeManager = UpgradeManager.Instance;
         soundManager = SoundManager.Instance;
-
-        contactFilter = new ContactFilter2D();
-        contactFilter.useTriggers = false;  // 트리거 콜라이더 제외
-        contactFilter.SetLayerMask(LayerMask.GetMask("Enemy")); // Enemy 레이어만 검출
 
         if (upgradeManager != null)
         {

@@ -22,6 +22,8 @@ public class Tower : MonoBehaviour
     [SerializeField]
     private Animator animator;                              // 타워 애니메이터
 
+    private string attackSoundName;
+
     private readonly List<Collider2D> colliderBuffer = new List<Collider2D>();
     private readonly List<Enemy> enemyBuffer = new List<Enemy>();
 
@@ -55,6 +57,8 @@ public class Tower : MonoBehaviour
         {
             animator = GetComponentInChildren<Animator>();
         }
+
+        attackSoundName = towerData.towerType.ToString() + "Attack";
 
         // 애니메이션 속도 설정
         SetAnimationSpeed(CurrentAttackSpeed);
@@ -102,11 +106,8 @@ public class Tower : MonoBehaviour
         animator.SetBool("IsAttack", true);
         int count = Mathf.Min(targets.Length, CurrentAttackTargetCount);
 
-        // 타워 공격 사운드 이름
-        string effectName = towerData.towerType.ToString() + "Attack";
-
         // 타워 사운드 재생
-        soundManager.Play(effectName);
+        soundManager.Play(attackSoundName);
 
         for (int i = 0; i < count; i++)
         {

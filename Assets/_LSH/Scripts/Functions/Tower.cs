@@ -165,13 +165,13 @@ public class Tower : MonoBehaviour
         }
     }
 
-    // 타워 공격 범위 기즈모 그리기
-    //private void OnDrawGizmos()
-    //{
-    //    if (towerData == null || currentAttackRange < 0f) return;
-    //
-    //    Gizmos.color = Color.red;
-    //
-    //    Gizmos.DrawWireSphere(transform.position, currentAttackRange);
-    //}
+    //타워 공격 범위 기즈모 그리기
+    private void OnDrawGizmos()
+    {
+        if (towerData == null || CurrentAttackRange < 0f) return;
+
+        Gizmos.color = Color.red;
+
+        Gizmos.DrawWireSphere(transform.position, CurrentAttackRange);
+    }
 }
